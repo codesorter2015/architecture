@@ -1,0 +1,9 @@
+Monolithic Architecture
+=======================
+UI->Business Logic->Data Access Layer-> Database
+
+Microservice Architecture
+==========================
+UI->MicroService1 -> Database
+UI->MicroService2 -> Database
+UI->MicroService3 -> Database
